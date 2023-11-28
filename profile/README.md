@@ -2,8 +2,8 @@
 ![CleanShot 2023-11-25 at 20 36 27](https://github.com/WalBiz/.github/assets/26188697/e75ab168-500e-4055-a504-7c24954543bf)
 | Bangkit ID | Name | Learning Path | University | Contact |
 | ----- | ----- | ----- | ----- | ----- |
-| A227BSY2562 | Muhadzdzib Dzaky Zaidan | Mobile Development | Universitas Jember | <a href="https://www.linkedin.com/in/muhadzdzib-dzaky-zaidan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 | A332BSX2216 | Faradina Anggraeni Ma'Roef | Mobile Development | Universitas Trunojoyo | <a href="https://www.linkedin.com/in/faradina-anggraeni-ma-roef-25541b231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
+| A227BSY2562 | Muhadzdzib Dzaky Zaidan | Mobile Development | Universitas Jember | <a href="https://www.linkedin.com/in/muhadzdzib-dzaky-zaidan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 | M227BSY1077 | Reyhan Nugraha Ananta | Machine Learning | Universitas Jember | <a href="https://www.linkedin.com/in/reyhannananta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 | M227BSX1246 | Resti Ika Pertiwi | Machine Learning | Universitas Jember | <a href="https://www.linkedin.com/in/resttitii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 | M008BSY1100 | Muhamad Alan Dharma Saputro Setiawan | Machine Learning | Universitas Gadjah Mada | <a href="https://www.linkedin.com/in/muhamad-alandharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
