@@ -1,5 +1,5 @@
-## Meet The Team! 👋
-![CleanShot 2023-11-25 at 20 36 27](https://github.com/WalBiz/.github/assets/26188697/e75ab168-500e-4055-a504-7c24954543bf)
+![CH2-PS006](https://github.com/walbiz/.github/assets/26188697/2b641ca9-957e-4dd6-b7d9-8dbf2a3e5799)
+
 | Bangkit ID | Name | Learning Path | University | Contact |
 | ----- | ----- | ----- | ----- | ----- |
 | A332BSX2216 | Faradina Anggraeni Ma'Roef | Mobile Development | Universitas Trunojoyo | <a href="https://www.linkedin.com/in/faradina-anggraeni-ma-roef-25541b231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
